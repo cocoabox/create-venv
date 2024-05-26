@@ -1,0 +1,2 @@
+# enter your pip requirements
+aiohttp==3.9.5
